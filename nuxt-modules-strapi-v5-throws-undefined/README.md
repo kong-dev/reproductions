@@ -2,8 +2,8 @@
 
 ## Steps
 
-1. `npx tiged kong-dev/reproductions/nuxt-modules-strapi-v5-throws-undefined`
-2. `cd nuxt-modules-strapi-v5-throws-undefined`
+1. `npx tiged kong-dev/reproductions/nuxt-modules-strapi-v5-throws-undefined reproduction`
+2. `cd reproduction`
 3. `pnpm install`
 4. `pnpm dev`
 5. open browser
