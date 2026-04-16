@@ -1,5 +1,7 @@
 # Reproduction
 
+https://github.com/nuxt-modules/strapi/issues/510
+
 ## Steps
 
 1. `npx tiged kong-dev/reproductions/nuxt-modules-strapi-v5-throws-undefined reproduction`
